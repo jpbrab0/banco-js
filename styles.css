@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@700&display=swap');
+body{
+    background-color: rgb(154, 129, 184);
+    font-family: Archivo;
+}
+
+.banco{
+    margin:8rem auto ;
+    background: #f0f0f5;
+    width: 50%;
+    height: 18rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    flex-direction: column;
+}
+.saldo{
+    color: green;
+}
+.red{
+    color: red;
+}
